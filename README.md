@@ -23,4 +23,4 @@ fn main() {
 ```
 
 # Output
-b
+![](https://github.com/riko-teki/images/スクリーンショット_2022-05-03_20-29-59.png)
