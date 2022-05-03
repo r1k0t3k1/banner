@@ -23,4 +23,4 @@ fn main() {
 ```
 
 # Output
-![](https://github.com/riko-teki/images/スクリーンショット_2022-05-03_20-29-59.png)
+![](https://raw.githubusercontent.com/riko-teki/images/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_2022-05-03_20-29-59.png)
