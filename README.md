@@ -6,7 +6,7 @@ add dependencies
 ```cargo.toml
 
 [dependencies]                                                                                                                    
-banner-na = { git = "https://github.com/riko-teki/banner-na.git"}
+banner-na = { git = "https://github.com/riko-teki/banner.git"}
 ```
 ```
 $ cargo build
@@ -14,10 +14,10 @@ $ cargo build
 
 # Usage
 ```rust
-use banner_na;
+use banner;
 
 fn main() {
-  banner_na::banner("HELLO");
+  banner::banner("HELLO");
 }
 
 ```
