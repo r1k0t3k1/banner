@@ -1,4 +1,4 @@
-# banner-na
+# banner
 welcome banner generetor
 
 # Installation
